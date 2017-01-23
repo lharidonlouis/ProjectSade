@@ -1,0 +1,27 @@
+LOUIS L'HARIDON - BAC ISN
+
+Sur cette clef : 
+	- Le dossier au format pdf 
+	- Le site web
+	- Le code Arduino
+	- l'apk de l'application
+
+Le dossier au format pdf et ses trois annexes sont disponibles dans le dossier "dossier"
+
+Pour ouvrir le site web, merci d'ouvrir le fichier "SITE-WEB-RACCOURCI" (raccourci de "index.html") 
+(sur google Chrome de préférence)
+rappel: Le site est accessible sur http://tylt-codeworld.olympe.in/ si le fichier présent sur la clef est corrompu
+
+
+Pour le code arduino, il est disponible dans le dossier "dossier" au format pdf dans le fichier "annexe1.pdf" et au format .ino dans le dossier "code-arduino" 
+avec le nom "vfinale.ino"
+
+Pour installer l'application il vous faudra un téléphone sous Android 4.1 minimum (application optimisée et créé pour android 5.0 lollipop)
+Il faut transférer le fichier "Projet-Sade.apk" présent dans le dossier "application-android" sur un téléphone android. Autoriser l'installation sur le 
+téléphones d'applications venant de sources externes (paramètres -> sécurité -> Sources inconnues [activé]).
+Et, pour finir, ouvrir le fichier apk sur le téléphone.
+rappel: le code Java de l'application est fourni dans le dossier "dossier" au format pdf dans le fichier "annexe2.pdf" 
+
+Merci par avance
+
+Louis L'Haridon

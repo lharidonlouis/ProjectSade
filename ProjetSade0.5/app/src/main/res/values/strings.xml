@@ -1,0 +1,24 @@
+<resources>
+<string name="app_name">Projet Sade</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Paramètres</string>
+<string name="title_activity_led_control">Contrôleur</string>
+<string name="paired">Appareils associés</string>
+<string name="deconnexion">Deconnexion</string>
+
+<string name="about">Projet Sade - © TYLT {code the world}</string>
+
+<string name="lup">\</string>
+<string name="up">↑</string>
+<string name="rup">/</string>
+<string name="left">←</string>
+<string name="stop">STOP</string>
+<string name="right">→</string>
+<string name="lown">/</string>
+<string name="down">↓</string>
+<string name="rown">\</string>
+    <string name="title_activity_control">Control</string>
+    <string name="title_activity_bluetooth_pair">BluetoothPair</string>
+
+    </resources>
