@@ -21,7 +21,7 @@ Le but visé est donc de créer un système d’esquive des obstacles qui permet
 
 ![Figure 1 – capteurs sur le fauteuil roulant](./img/fig1.png)		
 
-![Figure 2 – capteurs sur le shieldbot](./img.fig2.png)
+![Figure 2 – capteurs sur le shieldbot](./img/fig2.png)
 
 Nous avons choisi deux modes de commandes pour le fauteuil : un manuel (fig. 3) et un à distance avec un smartphone (fig. 4). Nous avons donc choisi de travailler avec une application Android afin de contrôler notre ShieldBot.
 
