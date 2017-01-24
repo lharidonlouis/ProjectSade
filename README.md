@@ -43,46 +43,22 @@ Nous avons réalisé un tableau rendant compte de la répartition des différent
 | Algorithmique global dont : |  Louis –Yaël – Tom |140 |
 | Librairie | Tom | 10 |
 | Moteur | Tom | 10 |
-| BLuetooth | Yaël - Louis |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Bluetooth | Yaël - Louis | 25 |
+| Séquence d'initialisation | Yaël | 5 |
+| Gestion de l'esquive | Louis | 25 |
+| Avertisseur visuel | Yaël | 5 |
+| Simplification du code -  recherche des erreurs | Louis –Yaël – Tom  | 5 |
+| Application Java | Louis | 25 |
+| Site web | Louis | 10 |
+| Science de l'ingénieur (synoptique, chaine d'énergie) | Yaël - Tom | 7 |
+| Mécanique assemblage | Louis - Tom | 10 |
+| Mise en page finale | Louis | 10 |
 
 Durant toute la durée de notre projet, nous avons fonctionné à partir d’un système de « réunions » hebdomadaires (tous les jeudis en cours d’ISN). Durant ces séances, nous nous attribuions les tâches de la semaine, nous nous exposions les idées et problèmes auxquels nous réfléchissions ensemble. A ces séances hebdomadaires, s’ajoutaient de nombreux points ponctuels via Skype.
-Voici le planning que nous nous étions fixé pour ce projet : 
-Date
-Tâches
-Septembre
-Recherche Projet
-Découverte Arduino
-Octobre
-Découverte ShieldBot
-Novembre
-Première version 0.1 - Maîtrise de la LED et de 1 capteur
-Décembre
-Maîtrise du Buzzer
-Janvier
-Maîtrise de 2 capteurs et du Shieldbot
-Février
-Ajout du Bluetooth
-Mars
-Premier algorithme d’esquive fonctionnel
-Avril
-Création de l’application Android
-Version 1.0 de notre code
-Suppression des librairies, universalisation du programme
-Concours OSI
-Mai
-Reconstruction et améliorations de l’algorithme. Version 1.2 finale
-Juin
-Baccalauréat
 
+Voici le planning que nous nous étions fixé pour ce projet : 
+
+![](./img/table.png)
 Pour travailler en équipe et mettre en commun l’ensemble des composantes du projet, nous avons choisi de travailler sur la plateforme DropBox. Elle nous a permis d’avoir un dossier commun dans lequel nous partagions entre nous et avec notre professeur les différentes versions du programme, les documents relatifs au projet… 
 Réalisation 
 Pour la réalisation de ce projet, j’ai pris en charge différentes fonctions. En tant que responsable développement, j’ai été chargé de la mise en page finale du code (annexe 1). Pour cela, j’ai récupéré l’ensemble du travail effectué par mes camarades et je l’ai assemblé de manière cohérente afin que le code se compile bien et que notre algorithme fonctionne correctement. 
