@@ -58,7 +58,8 @@ Durant toute la durée de notre projet, nous avons fonctionné à partir d’un 
 
 Voici le planning que nous nous étions fixé pour ce projet : 
 
-![](./img/table.png)
+![](./img/tabl.png)
+
 Pour travailler en équipe et mettre en commun l’ensemble des composantes du projet, nous avons choisi de travailler sur la plateforme DropBox. Elle nous a permis d’avoir un dossier commun dans lequel nous partagions entre nous et avec notre professeur les différentes versions du programme, les documents relatifs au projet… 
 Réalisation 
 Pour la réalisation de ce projet, j’ai pris en charge différentes fonctions. En tant que responsable développement, j’ai été chargé de la mise en page finale du code (annexe 1). Pour cela, j’ai récupéré l’ensemble du travail effectué par mes camarades et je l’ai assemblé de manière cohérente afin que le code se compile bien et que notre algorithme fonctionne correctement. 
