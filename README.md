@@ -33,6 +33,8 @@ Pour la partie robotique de notre projet, nous avons travaillé avec une carte a
 
 ###Répartition des tâches et Démarche collaborative / Présentation de l’équipe
 
+![](./img.org.png)
+
 Nous avons appelé notre groupe TYLT {code the world}, voici un lien vers notre site internet : [TYLT](http://tylt-codeworld.olympe.in/). Pour ce projet nous nous répartis les rôles de la manière présentée sur l’organigramme ci-dessus. 
 Nous avons réalisé un tableau rendant compte de la répartition des différentes tâches. 
 
