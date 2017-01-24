@@ -130,7 +130,7 @@ Pour l’esquive des obstacles, quand la distance le permet, nous avons tout d�
  
 ![Figure 8 – Calcul de la vitesse de la roue du côté du capteur en fonction de la distance de l’obstacle par l’expression](./img/fig8.png)
      
-![Figure 9 - Calcul de la vitesse de la roue opposée au capteur en fonction de la distance de l’obstacle par l’expression](./img.fig9.png)
+![Figure 9 - Calcul de la vitesse de la roue opposée au capteur en fonction de la distance de l’obstacle par l’expression](./img/fig9.png)
     
 Et enfin pour le dernier cas, j’ai programmé un arrêt d’urgence. En effet, le robot va s’arrêter une demi-seconde puis faire une rotation sur lui-même durant un quart de seconde et recommencer si nécessaire.
 
